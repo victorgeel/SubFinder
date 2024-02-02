@@ -1,6 +1,10 @@
 # SubFinder
 One Click Tool for Finding Subdomain 
 
+clone this git and
+
+cd SubFinder 
+
 # Usage
 
 python3 Run.py [-h] [--check] url
